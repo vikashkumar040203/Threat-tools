@@ -1,0 +1,37 @@
+2023-06-09 00:24:02,169:INFO:Keys have been loaded
+2023-06-09 00:24:02,173:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Results'
+2023-06-09 00:24:02,185:DEBUG:Starting new HTTPS connection (1): www.virustotal.com:443
+2023-06-09 00:24:03,203:DEBUG:https://www.virustotal.com:443 "GET /api/v3/files/178ba564b39bd07577e974a9b677dfd86ffa1f1d0299dfd958eb883c5ef6c3e1 HTTP/1.1" 200 39154
+2023-06-09 00:24:03,555:INFO:VirusTotal - 57 out of 70
+2023-06-09 00:24:35,025:INFO:Keys have been loaded
+2023-06-09 00:24:35,025:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Images'
+2023-06-09 00:24:35,025:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Images/ip'
+2023-06-09 00:24:35,026:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Images/url'
+2023-06-09 00:24:35,026:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Images/hash'
+2023-06-09 00:24:35,026:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Images/file'
+2023-06-09 00:24:35,026:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Results'
+2023-06-09 00:24:35,026:INFO:---------- Checking 1000lashes.com ----------
+2023-06-09 00:24:35,027:ERROR:value (1000lashes.com) is not a valid URL
+2023-06-09 00:24:51,293:INFO:Keys have been loaded
+2023-06-09 00:24:51,294:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Images'
+2023-06-09 00:24:51,294:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Images/ip'
+2023-06-09 00:24:51,295:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Images/url'
+2023-06-09 00:24:51,295:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Images/hash'
+2023-06-09 00:24:51,295:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Images/file'
+2023-06-09 00:24:51,296:WARNING:[WinError 183] Cannot create a file when that file already exists: 'Results'
+2023-06-09 00:24:51,296:INFO:---------- Checking https://1000lashes.com ----------
+2023-06-09 00:24:51,306:DEBUG:Starting new HTTPS connection (1): www.virustotal.com:443
+2023-06-09 00:24:52,406:DEBUG:https://www.virustotal.com:443 "POST /api/v3/urls HTTP/1.1" 200 318
+2023-06-09 00:24:52,416:DEBUG:Starting new HTTPS connection (1): www.virustotal.com:443
+2023-06-09 00:24:53,384:DEBUG:https://www.virustotal.com:443 "GET /api/v3/urls/1735325638027c108a9059353adc9421f451f925d13a2d02b04d1257e0632304 HTTP/1.1" 200 23392
+2023-06-09 00:24:53,672:INFO:VirusTotal - 5 out of 89
+2023-06-09 00:24:53,679:DEBUG:Starting new HTTPS connection (1): api.xforce.ibmcloud.com:443
+2023-06-09 00:24:54,389:DEBUG:https://api.xforce.ibmcloud.com:443 "GET /url/https%3A//1000lashes.com HTTP/1.1" 404 None
+2023-06-09 00:24:54,397:WARNING:IBM - Not found in database
+2023-06-09 00:24:54,398:INFO:IBM - Unknown
+2023-06-09 00:24:54,404:DEBUG:Starting new HTTPS connection (1): safebrowsing.googleapis.com:443
+2023-06-09 00:24:54,645:DEBUG:https://safebrowsing.googleapis.com:443 "POST /v4/threatMatches:find?key=AIzaSyARFkEoVLrRe59lV_ob33VAn1a0Z3_lM5M HTTP/1.1" 200 3
+2023-06-09 00:24:54,650:INFO:GoogleSafeBrowsing - Safe
+2023-06-09 00:24:54,656:DEBUG:Starting new HTTPS connection (1): checkurl.phishtank.com:443
+2023-06-09 00:24:55,039:DEBUG:https://checkurl.phishtank.com:443 "POST /checkurl/ HTTP/1.1" 200 None
+2023-06-09 00:24:55,050:INFO:PhishTank - Unknown

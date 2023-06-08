@@ -1,0 +1,10 @@
+Target,IBM,VirusTotal,AbusedIP,FraudGuard,Auth0,Action
+1.168.33.91,1 out of 10,0 out of 86,0 out of 100,1 out of 5,N/A,Safe
+103.12.217.155,1 out of 10,0 out of 86,0 out of 100,1 out of 5,N/A,Safe
+103.242.11.1,1 out of 10,1 out of 87,0 out of 100,1 out of 5,N/A,To Block
+103.242.11.94,1 out of 10,0 out of 86,0 out of 100,1 out of 5,N/A,Safe
+103.243.51.129,1 out of 10,0 out of 86,0 out of 100,1 out of 5,N/A,Safe
+103.253.141.43,1 out of 10,0 out of 87,0 out of 100,1 out of 5,N/A,Safe
+103.255.101.168,1 out of 10,0 out of 86,0 out of 100,1 out of 5,N/A,Safe
+103.31.186.67,1 out of 10,0 out of 86,0 out of 100,1 out of 5,N/A,Safe
+104.36.83.103,1 out of 10,0 out of 86,0 out of 100,1 out of 5,N/A,Safe

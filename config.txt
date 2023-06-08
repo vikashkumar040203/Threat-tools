@@ -1,0 +1,27 @@
+drive = "C:\Users\Vikash Kumar\Downloads\chromedriver_win32"
+
+[Virus Total]
+vt_key = 4b2dbd3b3860fc8bdca60322a6091d1cf57281788439a52d7a6bbdd62978557a
+
+[AbuseIPDB]
+abip_key = 4fe4f55149dcb661878c6630d86a37fb235f8b7deb56d0fcbbc23af695f98c4131db0249ac70dfc9
+
+[IBM]
+ibm_key = 60d8e39e-ca7e-4148-b827-128e257d5574
+ibm_pass = b19900a4-87b9-4205-8f81-60971eb4697e
+
+[URLScan]
+urlscan_key = 6918c1f5-1971-4215-afe9-afc2d717cb58
+
+[Google Safe]
+google_key = AIzaSyARFkEoVLrRe59lV_ob33VAn1a0Z3_lM5M
+
+[Auth0]
+auth0_key = 623f7575a0f06e0040f057c2
+
+[PhishTank]
+phish_key =
+phish_user =
+
+[FraudGuard replace below]
+fg_keys = mJKa30RXEAgZ49Fz:YwWSrvABAvvwIN0X
