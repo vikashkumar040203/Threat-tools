@@ -1,0 +1,15 @@
+IP
+- python HakiChecker.py -ip list.txt            check IP address
+- python HakiChecker.py -sip xx.xx.xx.xx        check single IP address
+
+
+URL
+- python HakiChecker.py -url list.txt  	        check url
+- python HakiChecker.py -surl xxx               check single url
+
+HASH
+- python HakiChecker.py -hash list.txt          check hash or equivalent Hash
+- python HakiChecker.py -shash xxxxxx           check single hash
+
+FILE
+- python HakiChecker.py -file list.txt          check file
